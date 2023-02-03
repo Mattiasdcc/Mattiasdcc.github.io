@@ -25,3 +25,21 @@ body{
     display:flex;
     justify-content: space-around;
 }
+
+.center3{
+    text-align: center;
+    font-size: 2.5rem;
+    color: red;
+
+}
+.center13{
+    text-align: center;
+    font-size: medium;
+    color: rgb(119, 0, 255);
+}
+
+.pippo
+{
+    display: flex;
+    justify-content: space-around;
+}
