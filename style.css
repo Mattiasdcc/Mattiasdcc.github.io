@@ -1,12 +1,10 @@
-img {
-    border-radius: 50%;
-}
+
 .center-box{
     display:flex;
     justify-content: center;
 }
 body{
-    background-color: rgb(33, 206, 27);
+    background-color: #e0e804;
 }
 .myname{
     color: rgb(218, 13, 13);
@@ -35,7 +33,7 @@ body{
 .center13{
     text-align: center;
     font-size: medium;
-    color: rgb(119, 0, 255);
+    color: blue;
 }
 
 .pippo
@@ -43,3 +41,16 @@ body{
     display: flex;
     justify-content: space-around;
 }
+.claa
+{
+border-radius: 50%;
+border: solid red;
+
+}
+
+.dolci{
+width: 150px;
+height: 50px;
+border: solid red;
+}
+
